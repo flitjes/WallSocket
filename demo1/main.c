@@ -155,5 +155,4 @@ __interrupt void USCI0RX_ISR_HOOK(void)
 		input_buffer[input_count] = input;
 		input_count++;
 	}
-
 }
