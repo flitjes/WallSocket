@@ -25,4 +25,21 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>delay.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/one-wire/delay.h</locationURI>
+		</link>
+		<link>
+			<name>onewire.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/one-wire/onewire.c</locationURI>
+		</link>
+		<link>
+			<name>onewire.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/one-wire/onewire.h</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
